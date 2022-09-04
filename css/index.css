@@ -3186,16 +3186,12 @@ h1.page-title + .tag-cloud-list {
 #page-header {
   position: relative;
   width: 100%;
-  background-color: #49b1f5;
-  background-position: center center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  -webkit-transition: all 0.5s;
-  -moz-transition: all 0.5s;
-  -o-transition: all 0.5s;
-  -ms-transition: all 0.5s;
-  transition: all 0.5s;
 }
+#page-header #background-color: $light-blue,
+#page-header background-position: center center,
+#page-header background-size: cover,
+#page-header background-repeat: no-repeat,
+#page-header transition: all .5s,
 #page-header:not(.not-top-img):before {
   position: absolute;
   width: 100%;

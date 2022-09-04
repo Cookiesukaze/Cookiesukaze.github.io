@@ -1,5 +1,5 @@
-http://example.com/2022/09/04/%E6%B5%8B%E8%AF%95%E7%94%A8%E7%BB%98%E7%94%BB%E9%A1%B5%E6%96%87%E7%AB%A0/
 http://example.com/2022/09/04/%E6%B5%8B%E8%AF%95%E7%94%A8%E7%AC%94%E8%AE%B0%E9%A1%B5%E6%96%87%E7%AB%A0/
+http://example.com/2022/09/04/%E6%B5%8B%E8%AF%95%E7%94%A8%E7%BB%98%E7%94%BB%E9%A1%B5%E6%96%87%E7%AB%A0/
 http://example.com/drawings/index.html
 http://example.com/notepad/index.html
 http://example.com/NANA/index.html
@@ -8,5 +8,5 @@ http://example.com/tags/index.html
 http://example.com/2022/08/30/hello-world/
 http://example.com/
 http://example.com/tags/%E6%B5%8B%E8%AF%95/
-http://example.com/categories/notepad/
-http://example.com/categories/drawings/
+http://example.com/categories/%E7%AC%94%E8%AE%B0/
+http://example.com/categories/%E7%BB%98%E7%94%BB/

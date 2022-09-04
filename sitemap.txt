@@ -8,5 +8,5 @@ http://example.com/tags/index.html
 http://example.com/2022/08/30/hello-world/
 http://example.com/
 http://example.com/tags/%E6%B5%8B%E8%AF%95/
-http://example.com/categories/%E7%AC%94%E8%AE%B0/
-http://example.com/categories/%E7%BB%98%E7%94%BB/
+http://example.com/categories/drawings/
+http://example.com/categories/notepad/

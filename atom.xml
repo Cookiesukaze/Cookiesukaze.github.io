@@ -41,34 +41,6 @@
   </entry>
   
   <entry>
-    <title>测试用绘画页文章</title>
-    <link href="http://example.com/2022/09/04/%E6%B5%8B%E8%AF%95%E7%94%A8%E7%BB%98%E7%94%BB%E9%A1%B5%E6%96%87%E7%AB%A0/"/>
-    <id>http://example.com/2022/09/04/%E6%B5%8B%E8%AF%95%E7%94%A8%E7%BB%98%E7%94%BB%E9%A1%B5%E6%96%87%E7%AB%A0/</id>
-    <published>2022-09-04T02:52:35.000Z</published>
-    <updated>2022-09-04T03:05:30.583Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/%E6%B5%8B%E8%AF%95%E7%94%A8%E7%BB%98%E7%94%BB%E9%A1%B5%E6%96%87%E7%AB%A0/test1.png"></p><ul><li>No.0000 测试用半成品</li></ul><p>画着画着就变成铃仙了，有生之年能画出来一副完整的画吗？</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/%E6%B5%8B%E8%AF%95%E7%94%A8%E7%BB%98%E7%94%BB%E9%A1%B5%E6%96%87%E7%AB%A0/test1.png&quot;&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;No.0000 测试用半成品&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p</summary>
-      
-    
-    
-    
-    <category term="绘画" scheme="http://example.com/categories/%E7%BB%98%E7%94%BB/"/>
-    
-    
-    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
     <link href="http://example.com/2022/08/30/hello-world/"/>
     <id>http://example.com/2022/08/30/hello-world/</id>

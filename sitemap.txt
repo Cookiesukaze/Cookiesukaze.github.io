@@ -1,3 +1,7 @@
+http://example.com/notepad/index.html
+http://example.com/drawings/index.html
 http://example.com/NANA/index.html
+http://example.com/categories/index.html
+http://example.com/tags/index.html
 http://example.com/2022/08/30/hello-world/
 http://example.com/

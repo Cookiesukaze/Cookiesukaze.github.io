@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-09-04T03:14:27.775Z</updated>
+  <updated>2022-09-04T04:34:41.299Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2022/09/04/%E6%B5%8B%E8%AF%95%E7%94%A8%E7%AC%94%E8%AE%B0%E9%A1%B5%E6%96%87%E7%AB%A0/"/>
     <id>http://example.com/2022/09/04/%E6%B5%8B%E8%AF%95%E7%94%A8%E7%AC%94%E8%AE%B0%E9%A1%B5%E6%96%87%E7%AB%A0/</id>
     <published>2022-09-04T03:09:19.000Z</published>
-    <updated>2022-09-04T03:14:27.775Z</updated>
+    <updated>2022-09-04T04:34:41.299Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><p>计算得到时间复杂度O(n*logn),(其中注意按master的第三项算出的递归之外的时间复杂度是O(n))，这是比前面两种排序算法更优的，好在少了很多比较行为，因为每一轮的比较行为都2使它成为更大的有序序列，这是前两种排序算法做不到的<br>额外空间复杂度O(n)，因为每一次归并的长度为n的空间使用后都被释放</p><ul><li>eg.求小和问题</li></ul><p>转变思路，找右边有几个比左边选定数大的，就加上几个*选定数，主要思想是归并排序，归并的时候求小和，排序是为了直接知道左边选定的数比右边多少个数小。和归并排序法不同之处在于归并的时候，左边和右边有一样大的数字的时候，必须先把右边数组的该数拷贝</p><p><img src="/%E6%B5%8B%E8%AF%95%E7%94%A8%E7%AC%94%E8%AE%B0%E9%A1%B5%E6%96%87%E7%AB%A0/test2.png"></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><p>计算得到时间复杂度O(n*logn),(其中注意按master的第三项算出的递归之外的时间复杂度是O(n))，这是比前面两种排序算法更优的，好在少了很多比较行为，因为每一轮的比较行为都2使它成为更大的有序序列，这是前两种排序算法做不到的<br>额外空间复杂度O(n)，因为每一次归并的长度为n的空间使用后都被释放</p><ul><li>eg.求小和问题</li></ul><p>转变思路，找右边有几个比左边选定数大的，就加上几个*选定数，主要思想是归并排序，归并的时候求小和，排序是为了直接知道左边选定的数比右边多少个数小。和归并排序法不同之处在于归并的时候，左边和右边有一样大的数字的时候，必须先把右边数组的该数拷贝</p>]]></content>
     
     
       
@@ -34,6 +34,34 @@
     
     
     <category term="笔记" scheme="http://example.com/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试用绘画页文章</title>
+    <link href="http://example.com/2022/09/04/%E6%B5%8B%E8%AF%95%E7%94%A8%E7%BB%98%E7%94%BB%E9%A1%B5%E6%96%87%E7%AB%A0/"/>
+    <id>http://example.com/2022/09/04/%E6%B5%8B%E8%AF%95%E7%94%A8%E7%BB%98%E7%94%BB%E9%A1%B5%E6%96%87%E7%AB%A0/</id>
+    <published>2022-09-04T02:52:35.000Z</published>
+    <updated>2022-09-04T03:59:08.598Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/%E6%B5%8B%E8%AF%95%E7%94%A8%E7%BB%98%E7%94%BB%E9%A1%B5%E6%96%87%E7%AB%A0/test1.png"></p><ul><li>No.0000 测试用半成品</li></ul><p>画着画着就变成铃仙了，有生之年能画出来一副完整的画吗？</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/%E6%B5%8B%E8%AF%95%E7%94%A8%E7%BB%98%E7%94%BB%E9%A1%B5%E6%96%87%E7%AB%A0/test1.png&quot;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;No.0000 测试用半成品&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p</summary>
+      
+    
+    
+    
+    <category term="绘画" scheme="http://example.com/categories/%E7%BB%98%E7%94%BB/"/>
     
     
     <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
